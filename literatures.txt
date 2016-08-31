@@ -1,0 +1,41 @@
+An Investigation into the Use of Common Libraries in Android Apps
+Analysis of Code Heterogeneity for High-Precision Classification of Repackaged Malware
+Semantics-based Repackaging Detection for Mobile Apps
+Detect repackaged Android application based on HTTP traffic similarity
+DroidEagle: seamless detection of visually similar Android apps
+A Rapid and Scalable Method for Android Application Repackaging Detection
+Detection of repackaged mobile applications through a collaborative approach
+WuKong: A Scalable and Accurate Two-Phase Approach to Android App Clone Detection
+Detecting Clones in Android Applications through Analyzing User Interfaces
+Detecting Android Malware Using Clone Detection
+Exploring Reverse Engineering Symptoms in Android apps
+Finding Unknown Malice in 10 Seconds: Mass Vetting for New Threats at the Google-Play Scale 
+Divilar: diversifying intermediate language for anti-repackaging on android platform
+DroidKin: Lightweight Detection of Android Apps Similarity
+Droidlegacy: automated familial classification of Android malware
+A large scale empirical study on software reuse in mobile apps
+Revisiting Android reuse studies in the context of code obfuscation and library usages
+AnDarwin: Scalable Detection of Android Application Clones Based on Semantics
+Towards a scalable resource-driven approach for detecting repackaged android applications.
+Achieving accuracy and scalability simultaneously in detecting application clones on Android markets
+A measurement study of Google Play
+FSquaDRA: fast detection of repackaged applications
+ViewDroid: Towards Obfuscation-Resilient Mobile Application Repackaging Detection
+Droidmarking: Resilient Software Watermarking for Impeding Android Application Repackaging
+Detecting Code Reuse in Android Applications Using Component-Based Control Flow Graph
+AndRadar: Fast Discovery of Android Applications in Alternative Markets
+Detecting Camouflaged Applications On Mobile Application Markets
+Identifying android malicious repackaged applications by thread-grained system call sequences
+Fast, scalable detection of “piggybacked” mobile applications
+Sweetening Android Lemon Markets: Measuring and Combating Malware in Application Marketplaces 
+AnDarwin: Scalable Detection of Semantically Similar Android Applications
+DroidAnalytics: A Signature Based Analytic System to Collect, Extract, Analyze and Associate Android Malware
+Appink: watermarking android apps for repackaging deterrence 
+AdRob: Examining the Landscape and Impact of Android Application Plagiarism
+Detecting repackaged smartphone applications in third-party Android marketplaces
+Juxtapp: a scalable system for detecting code reuse among Android applications
+Attack of the clones: detecting cloned applications on Android markets
+Android: Static analysis using similarity distance
+Plagiarizing Smartphone Applications: Attack Strategies and Defense Techniques
+DroidMat: Android Malware Detection through Manifest and API Calls Tracing
+Understanding Reuse in the Android Market
